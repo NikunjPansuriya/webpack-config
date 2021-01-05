@@ -18,7 +18,7 @@
   "homepage": "https://github.com/AsimilyInc/asimily-portal#readme",
   "dependencies": {
     "@highcharts/map-collection": "^1.1.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bluebird": "^3.5.5",
     "bootstrap": "^3.4.1",
     "bootstrap-daterangepicker": "^2.1.30",
