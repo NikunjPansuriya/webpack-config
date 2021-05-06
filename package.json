@@ -27,7 +27,7 @@
     "che-react-number-easing": "^0.1.2",
     "font-awesome": "^4.7.0",
     "globalize": "^1.4.2",
-    "highcharts": "^7.0.3",
+    "highcharts": "^9.0.0",
     "jquery": "^3.4.1",
     "jsdom": "^15.1.1",
     "jspdf": "^1.5.3",
